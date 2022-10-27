@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		DD047B782908E4E900A3AA52 /* OperatorsAndExpressions.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD047B772908E4E900A3AA52 /* OperatorsAndExpressions.swift */; };
 		DD047B7A29092C8900A3AA52 /* ControlFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD047B7929092C8900A3AA52 /* ControlFlow.swift */; };
+		DD047B7D290A559A00A3AA52 /* FunctionMethodClosures.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD047B7C290A559A00A3AA52 /* FunctionMethodClosures.swift */; };
 		DDDDBC652908CE9A0006EB51 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDDBC642908CE9A0006EB51 /* main.swift */; };
 		DDDDBC6D2908D1E50006EB51 /* TypesConstantsVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDDBC6C2908D1E50006EB51 /* TypesConstantsVariables.swift */; };
 /* End PBXBuildFile section */
@@ -29,6 +30,7 @@
 		DD047B772908E4E900A3AA52 /* OperatorsAndExpressions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OperatorsAndExpressions.swift; sourceTree = "<group>"; };
 		DD047B7929092C8900A3AA52 /* ControlFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlFlow.swift; sourceTree = "<group>"; };
 		DD047B7B290A1E8100A3AA52 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		DD047B7C290A559A00A3AA52 /* FunctionMethodClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionMethodClosures.swift; sourceTree = "<group>"; };
 		DDDDBC612908CE9A0006EB51 /* Swift Programming for Mobile App Development  */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Swift Programming for Mobile App Development "; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDDDBC642908CE9A0006EB51 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		DDDDBC6C2908D1E50006EB51 /* TypesConstantsVariables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypesConstantsVariables.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 		DDDDBC632908CE9A0006EB51 /* Code */ = {
 			isa = PBXGroup;
 			children = (
+				DD047B7C290A559A00A3AA52 /* FunctionMethodClosures.swift */,
 				DDDDBC6C2908D1E50006EB51 /* TypesConstantsVariables.swift */,
 				DDDDBC642908CE9A0006EB51 /* main.swift */,
 				DD047B772908E4E900A3AA52 /* OperatorsAndExpressions.swift */,
@@ -133,6 +136,7 @@
 			files = (
 				DD047B782908E4E900A3AA52 /* OperatorsAndExpressions.swift in Sources */,
 				DD047B7A29092C8900A3AA52 /* ControlFlow.swift in Sources */,
+				DD047B7D290A559A00A3AA52 /* FunctionMethodClosures.swift in Sources */,
 				DDDDBC6D2908D1E50006EB51 /* TypesConstantsVariables.swift in Sources */,
 				DDDDBC652908CE9A0006EB51 /* main.swift in Sources */,
 			);
